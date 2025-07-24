@@ -3,7 +3,7 @@
 
 enum desingnation {
       SENIOR_LECTURE,
-
+      ASSOCIATE_PROFACOR,
 };
 
 typedef struct faculty{
